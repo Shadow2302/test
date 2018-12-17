@@ -5,8 +5,8 @@ def print_error():
 try:
     a = int(input("Enter your age: "))
     if a >= 0 and a <= 115:
-    print("Your year of birth is {}".format(2018 - a))
+        print("Your year of birth is {}".format(2018 - a))
     else:
         print_error()
-except Exception:
+except ValueError:
     print_error()
