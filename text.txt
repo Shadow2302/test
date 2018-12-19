@@ -1,9 +1,12 @@
-Alex:3
+Alex: 313dfsd
 Bob:5
-Brex:100
-Brex:10
+Brex:    10ad1
+Brex:10dfs2435876
 Alex:1
-Bob:2
 Brex:1
-Brex:3a
-Brex:12as
+Bob:2.
+Cike: 13
+Danil:     54
+Evan: 52
+Ivan: 10
+Afanasij: 17
